@@ -1,0 +1,41 @@
+body {background-color: pink;}
+h1.nume {color: #463cb5;}
+p {color: #660033;}
+
+table {background-color: rgb(255, 153, 204);}
+ul {background-color: rgb(204, 102, 255);}
+
+table, tr, td, ul {border: 3px blue;}
+tr:hover {background-color: #ffccff;}
+
+h1.nume {font-family: "Times New Roman", Times, serif;
+	font-style: bold;
+	font-size: 20px;}
+	
+p {font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;}
+	
+img.profil {border: 3px #1a001a;
+	border-radius: 12px;
+	width: 380px;
+	display: block;
+	padding: 2px;
+	margin: left;
+	opacity: 1;}
+	
+a.linkCat {font-style: bold;
+	font-size: 18px;}
+	
+#logoCat {border: 3px #1a001a;
+	border-radius: 12px;
+	width: 110px;
+	display: block;
+	padding: 2px;
+	margin: auto;
+	opacity: 0.8;}
+	
+#titluCat {font-family: "Arial";
+	font-style: italic;
+	font-size: 30px;
+	color:purple;}
+
